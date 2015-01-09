@@ -1,9 +1,9 @@
 ;;; wmp.el --- interactive window manipulation
 
 ;; Copyright © 2015 David Edmondson
-;;
+
 ;; Authors: David Edmondson <dme@dme.org>
-;; Keywords: lisp,convenience
+;; Keywords: window, convenience
 ;; Version: 0.0.1
 ;; URL: https://github.com/dme/wmp.el
 
@@ -115,3 +115,5 @@
 ;; 
 
 (provide 'wmp)
+
+;;; wmp.el ends here
